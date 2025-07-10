@@ -1,3 +1,5 @@
-# Hi
-I don't usually use the default branch. <br/>
-But there are files in the python branch. :) <br/>
+# Hi there!
+I made this repository to say hi. <br/>
+In it, you'll find programs for your entertainment. <br/>
+<br/>
+Note: I probably won't put code the default branch; there's some in the python branch, though. <br/>
